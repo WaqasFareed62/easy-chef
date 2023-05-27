@@ -1,10 +1,11 @@
 import "./App.css";
-import SignUp from "./pages/SignUp";
-
+// import SignUp from "./pages/SignUp";
+import LoginPage from "./pages/LoginPage";
 function App() {
   return (
     <>
-      <SignUp />
+      <LoginPage />
+      {/* <SignUp /> */}
     </>
   );
 }
