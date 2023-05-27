@@ -6,6 +6,8 @@ import {
   Typography,
 } from "@material-tailwind/react";
 
+import { Link } from "react-router-dom";
+
 export default function SignUp() {
   return (
     <Card color="transparent" shadow={false}>
@@ -29,12 +31,12 @@ export default function SignUp() {
               className="flex items-center font-normal"
             >
               I agree the
-              <a
+              <Link
                 href="#"
                 className="font-medium transition-colors hover:text-blue-500"
               >
                 &nbsp;Terms and Conditions
-              </a>
+              </Link>
             </Typography>
           }
           containerProps={{ className: "-ml-2.5" }}
@@ -44,12 +46,12 @@ export default function SignUp() {
         </Button>
         <Typography color="gray" className="mt-4 text-center font-normal">
           Already have an account?{" "}
-          <a
+          <Link
             href="#"
             className="font-medium text-blue-500 transition-colors hover:text-blue-700"
           >
             Sign In
-          </a>
+          </Link>
         </Typography>
       </form>
     </Card>
