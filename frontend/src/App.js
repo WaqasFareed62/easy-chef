@@ -9,12 +9,13 @@ import About from "./components/About/About";
 import Contact from "./components/Contact/Contact";
 import Signup from "./components/Signup/Signup";
 import Signin from "./components/Signin/Signin";
+import Footer from "./pages/Footer";
 
 function App() {
   return (
     <div>
       <Navbar />
-      {/* <Carousel /> */}
+      <Carousel />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="about" element={<About />} />
@@ -22,6 +23,7 @@ function App() {
         <Route path="signup" element={<Signup />} />
         <Route path="signin" element={<Signin />} />
       </Routes>
+      <Footer />
     </div>
   );
 }
