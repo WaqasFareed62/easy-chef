@@ -1,4 +1,5 @@
 import React from "react";
+import "../Home/Home.css";
 
 export default function Features() {
   return (
@@ -6,12 +7,10 @@ export default function Features() {
       <div class="container px-5 py-24 mx-auto">
         <div class="text-center mb-20">
           <h1 class="sm:text-3xl text-2xl font-medium title-font text-gray-900 mb-4">
-            Raw Denim Heirloom Man Braid
+            Discover the Delicious Difference
           </h1>
           <p class="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto text-gray-500s">
-            Blue bottle crucifix vinyl post-ironic four dollar toast vegan
-            taxidermy. Gastropub indxgo juice poutine, ramps microdosing banh mi
-            pug.
+            Explore the unique features that set our recipes apart:
           </p>
           <div class="flex mt-6 justify-center">
             <div class="w-16 h-1 rounded-full bg-indigo-500 inline-flex"></div>
@@ -34,12 +33,14 @@ export default function Features() {
             </div>
             <div class="flex-grow">
               <h2 class="text-gray-900 text-lg title-font font-medium mb-3">
-                Shooting Stars
+                Simple and Easy
               </h2>
               <p class="leading-relaxed text-base">
-                Blue bottle crucifix vinyl post-ironic four dollar toast vegan
-                taxidermy. Gastropub indxgo juice poutine, ramps microdosing
-                banh mi pug VHS try-hard.
+                We understand that your time is valuable. That's why our recipes
+                are designed to be simple and easy to follow, even for novice
+                cooks. With clear instructions and minimal preparation time, you
+                can whip up wholesome meals without hassle, making healthy
+                eating a breeze.
               </p>
               <a class="mt-3 text-indigo-500 inline-flex items-center">
                 Learn More
@@ -75,12 +76,14 @@ export default function Features() {
             </div>
             <div class="flex-grow">
               <h2 class="text-gray-900 text-lg title-font font-medium mb-3">
-                The Catalyzer
+                Flavorful and Varied
               </h2>
               <p class="leading-relaxed text-base">
-                Blue bottle crucifix vinyl post-ironic four dollar toast vegan
-                taxidermy. Gastropub indxgo juice poutine, ramps microdosing
-                banh mi pug VHS try-hard.
+                We believe that healthy food should never be boring. Our recipes
+                showcase a wide range of flavors and culinary traditions from
+                around the world. From zesty spices to aromatic herbs, we infuse
+                each dish with delightful tastes, ensuring that your journey
+                towards wellness is as exciting as it is nutritious.
               </p>
               <a class="mt-3 text-indigo-500 inline-flex items-center">
                 Learn More
@@ -115,12 +118,14 @@ export default function Features() {
             </div>
             <div class="flex-grow">
               <h2 class="text-gray-900 text-lg title-font font-medium mb-3">
-                Neptune
+                Wholesome Ingredients
               </h2>
               <p class="leading-relaxed text-base">
-                Blue bottle crucifix vinyl post-ironic four dollar toast vegan
-                taxidermy. Gastropub indxgo juice poutine, ramps microdosing
-                banh mi pug VHS try-hard.
+                Our recipes are crafted with carefully selected, high-quality
+                ingredients that prioritize nutrition and flavor. From
+                farm-fresh produce to lean proteins and whole grains, we ensure
+                that each dish is packed with essential nutrients to support
+                your well-being.
               </p>
               <a class="mt-3 text-indigo-500 inline-flex items-center">
                 Learn More
@@ -139,9 +144,6 @@ export default function Features() {
             </div>
           </div>
         </div>
-        <button class="flex mx-auto mt-16 text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">
-          Button
-        </button>
       </div>
     </section>
   );
