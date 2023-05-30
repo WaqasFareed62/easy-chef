@@ -1,5 +1,8 @@
 import React from "react";
-
+import rec1 from "../Home/rec1.jpg";
+import rec2 from "../Home/rec2.jpg";
+import rec3 from "../Home/rec3.jpg";
+import rec4 from "../Home/rec4.jpg";
 export default function Freerecipe() {
   return (
     <section class="text-gray-600 body-font">
@@ -10,12 +13,13 @@ export default function Freerecipe() {
           </div>
           <div class="flex flex-wrap sm:flex-row flex-col py-6 mb-12">
             <h1 class="sm:w-2/5 text-gray-900 font-medium title-font text-2xl mb-2 sm:mb-0">
-              Space For The Free Recipe
+              Some Classic Free Recipes
             </h1>
             <p class="sm:w-3/5 leading-relaxed text-base sm:pl-10 pl-0">
-              Street art subway tile salvia four dollar toast bitters selfies
-              quinoa yuccie synth meditation iPhone intelligentsia prism tofu.
-              Viral gochujang bitters dreamcatcher.
+              From vibrant salads bursting with colorful vegetables to hearty
+              soups, delectable main courses, and guilt-free desserts, we've got
+              you covered with recipes that will satisfy both your taste buds
+              and your desire for a healthier lifestyle.
             </p>
           </div>
         </div>
@@ -25,19 +29,19 @@ export default function Freerecipe() {
               <img
                 alt="content"
                 class="object-cover object-center h-full w-full"
-                src="https://dummyimage.com/1203x503"
+                src={rec1}
               />
             </div>
             <h2 class="text-xl font-medium title-font text-gray-900 mt-5">
-              Shooting Stars
+              Mediterranean Quinoa Salad:
             </h2>
             <p class="text-base leading-relaxed mt-2">
-              Swag shoivdigoitch literally meditation subway tile tumblr
-              cold-pressed. Gastropub street art beard dreamcatcher neutra,
-              ethical XOXO lumbersexual.
+              Mediterranean Quinoa Salad: Fresh, flavorful, and nutritious.
+              Protein-rich quinoa, crisp veggies, tangy feta, zesty lemon
+              dressing.
             </p>
             <a class="text-green-500 inline-flex items-center mt-3">
-              Learn More
+              View Details{" "}
               <svg
                 fill="none"
                 stroke="currentColor"
@@ -56,19 +60,18 @@ export default function Freerecipe() {
               <img
                 alt="content"
                 class="object-cover object-center h-full w-full"
-                src="https://dummyimage.com/1204x504"
+                src={rec2}
               />
             </div>
             <h2 class="text-xl font-medium title-font text-gray-900 mt-5">
-              The Catalyzer
+              Spicy Thai Basil Stir-Fry:{" "}
             </h2>
             <p class="text-base leading-relaxed mt-2">
-              Swag shoivdigoitch literally meditation subway tile tumblr
-              cold-pressed. Gastropub street art beard dreamcatcher neutra,
-              ethical XOXO lumbersexual.
+              Thai Stir-Fry: Aromatic, fiery, and bold. Colorful veggies, tender
+              chicken (or tofu), basil, chili. Taste bud adventure.
             </p>
             <a class="text-green-500 inline-flex items-center mt-3">
-              Learn More
+              View Details
               <svg
                 fill="none"
                 stroke="currentColor"
@@ -87,19 +90,18 @@ export default function Freerecipe() {
               <img
                 alt="content"
                 class="object-cover object-center h-full w-full"
-                src="https://dummyimage.com/1205x505"
+                src={rec3}
               />
             </div>
             <h2 class="text-xl font-medium title-font text-gray-900 mt-5">
-              The 400 Blows
+              Oven-Baked Salmon:{" "}
             </h2>
             <p class="text-base leading-relaxed mt-2">
-              Swag shoivdigoitch literally meditation subway tile tumblr
-              cold-pressed. Gastropub street art beard dreamcatcher neutra,
-              ethical XOXO lumbersexual.
+              Oven-Baked Salmon: Succulent, perfectly cooked. Light lemon-dill
+              sauce. Balanced flavors, heart-healthy omega-3.
             </p>
             <a class="text-green-500 inline-flex items-center mt-3">
-              Learn More
+              View Details
               <svg
                 fill="none"
                 stroke="currentColor"
@@ -118,19 +120,19 @@ export default function Freerecipe() {
               <img
                 alt="content"
                 class="object-cover object-center h-full w-full"
-                src="https://dummyimage.com/1203x503"
+                src={rec4}
               />
             </div>
             <h2 class="text-xl font-medium title-font text-gray-900 mt-5">
-              Shooting Stars
+              Flourless Chocolate Cake:{" "}
             </h2>
             <p class="text-base leading-relaxed mt-2">
-              Swag shoivdigoitch literally meditation subway tile tumblr
-              cold-pressed. Gastropub street art beard dreamcatcher neutra,
-              ethical XOXO lumbersexual.
+              Flourless Chocolate Cake: Rich, indulgent, and gluten-free.
+              Velvety, intense chocolaty goodness. Premium dark chocolate,
+              butter, eggs. A chocolate lover's delight.
             </p>
             <a class="text-green-500 inline-flex items-center mt-3">
-              Learn More
+              View Details
               <svg
                 fill="none"
                 stroke="currentColor"
