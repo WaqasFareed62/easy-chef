@@ -1,0 +1,514 @@
+[
+  {
+    "id": 1,
+    "title": "Sushi Rolls",
+    "description": "Fresh, vibrant, and artfully crafted Japanese delicacies with various fillings.",
+    "ingredients": [
+      {
+        "ingredient": "Bacon",
+        "description": "Cook bacon in a large skillet."
+      },
+      {
+        "ingredient": "Butter",
+        "description": "You can also use margarine."
+      },
+      {
+        "ingredient": "Flour and milk",
+        "description": "Whisk all-purpose flour and milk into the melted butter for a perfectly thick base."
+      },
+      {
+        "ingredient": "Baked potatoes",
+        "description": "Try our Perfect Baked Potatoes recipe."
+      },
+      {
+        "ingredient": "Green onions",
+        "description": "Chopped green onions lend bright, bold flavor and color."
+      },
+      {
+        "ingredient": "Seasonings",
+        "description": "Simply seasoned with salt and pepper."
+      },
+      {
+        "ingredient": "Cheese and sour cream",
+        "description": "Shredded Cheddar cheese and sour cream ensure a rich and creamy soup."
+      },
+      {
+        "ingredientSize": [
+          "12 slices bacon",
+          "⅔ cup butter",
+          "⅔ cup all-purpose flour",
+          "7 cups milk",
+          "4 large baked potatoes, peeled and cubed",
+          "4 green onions, chopped",
+          "1 ¼ cups shredded Cheddar cheese",
+          "1 cup sour cream",
+          "1 teaspoon salt",
+          "1 teaspoon ground black pepper"
+        ]
+      }
+    ],
+    "direction": [
+      "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 8 to 10 minutes. Drain bacon slices on paper towels; crumble and set aside",
+      "Meanwhile, melt butter in a stockpot or Dutch oven over medium heat. Gradually add flour, whisking until well-combined. Slowly pour in milk, whisking constantly until smooth and thickened",
+      "Add potatoes and onions and bring to a boil, stirring frequently. Reduce heat and simmer for 10 minutes",
+      "Stir in crumbled bacon, Cheddar cheese, sour cream, salt, and pepper. Continue cooking and stirring until cheese is melted. ",
+      {
+        "src": "../media/completed/Sushi.webp"
+      }
+    ],
+    "review": "its a best dish ever",
+    "totalTime": 40,
+    "cookTime": 25,
+    "prepTime": 15,
+    "servings": 6,
+    "src": "./assets/p1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Sushi Rolls",
+    "description": "Fresh, vibrant, and artfully crafted Japanese delicacies with various fillings.",
+    "ingredients": [
+      {
+        "ingredient": "Bacon",
+        "description": "Cook bacon in a large skillet."
+      },
+      {
+        "ingredient": "Butter",
+        "description": "You can also use margarine."
+      },
+      {
+        "ingredient": "Flour and milk",
+        "description": "Whisk all-purpose flour and milk into the melted butter for a perfectly thick base."
+      },
+      {
+        "ingredient": "Baked potatoes",
+        "description": "Try our Perfect Baked Potatoes recipe."
+      },
+      {
+        "ingredient": "Green onions",
+        "description": "Chopped green onions lend bright, bold flavor and color."
+      },
+      {
+        "ingredient": "Seasonings",
+        "description": "Simply seasoned with salt and pepper."
+      },
+      {
+        "ingredient": "Cheese and sour cream",
+        "description": "Shredded Cheddar cheese and sour cream ensure a rich and creamy soup."
+      },
+      {
+        "ingredientSize": [
+          "12 slices bacon",
+          "⅔ cup butter",
+          "⅔ cup all-purpose flour",
+          "7 cups milk",
+          "4 large baked potatoes, peeled and cubed",
+          "4 green onions, chopped",
+          "1 ¼ cups shredded Cheddar cheese",
+          "1 cup sour cream",
+          "1 teaspoon salt",
+          "1 teaspoon ground black pepper"
+        ]
+      }
+    ],
+    "direction": [
+      "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 8 to 10 minutes. Drain bacon slices on paper towels; crumble and set aside",
+      "Meanwhile, melt butter in a stockpot or Dutch oven over medium heat. Gradually add flour, whisking until well-combined. Slowly pour in milk, whisking constantly until smooth and thickened",
+      "Add potatoes and onions and bring to a boil, stirring frequently. Reduce heat and simmer for 10 minutes",
+      "Stir in crumbled bacon, Cheddar cheese, sour cream, salt, and pepper. Continue cooking and stirring until cheese is melted. ",
+      {
+        "src": "media/completed/Sushi.webp"
+      }
+    ],
+    "review": "its a best dish ever",
+    "totalTime": 40,
+    "cookTime": 25,
+    "prepTime": 15,
+    "servings": 6,
+    "src": "./assets/p5.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Sushi Rolls",
+    "description": "Fresh, vibrant, and artfully crafted Japanese delicacies with various fillings.",
+    "ingredients": [
+      {
+        "ingredient": "Bacon",
+        "description": "Cook bacon in a large skillet."
+      },
+      {
+        "ingredient": "Butter",
+        "description": "You can also use margarine."
+      },
+      {
+        "ingredient": "Flour and milk",
+        "description": "Whisk all-purpose flour and milk into the melted butter for a perfectly thick base."
+      },
+      {
+        "ingredient": "Baked potatoes",
+        "description": "Try our Perfect Baked Potatoes recipe."
+      },
+      {
+        "ingredient": "Green onions",
+        "description": "Chopped green onions lend bright, bold flavor and color."
+      },
+      {
+        "ingredient": "Seasonings",
+        "description": "Simply seasoned with salt and pepper."
+      },
+      {
+        "ingredient": "Cheese and sour cream",
+        "description": "Shredded Cheddar cheese and sour cream ensure a rich and creamy soup."
+      },
+      {
+        "ingredientSize": [
+          "12 slices bacon",
+          "⅔ cup butter",
+          "⅔ cup all-purpose flour",
+          "7 cups milk",
+          "4 large baked potatoes, peeled and cubed",
+          "4 green onions, chopped",
+          "1 ¼ cups shredded Cheddar cheese",
+          "1 cup sour cream",
+          "1 teaspoon salt",
+          "1 teaspoon ground black pepper"
+        ]
+      }
+    ],
+    "direction": [
+      "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 8 to 10 minutes. Drain bacon slices on paper towels; crumble and set aside",
+      "Meanwhile, melt butter in a stockpot or Dutch oven over medium heat. Gradually add flour, whisking until well-combined. Slowly pour in milk, whisking constantly until smooth and thickened",
+      "Add potatoes and onions and bring to a boil, stirring frequently. Reduce heat and simmer for 10 minutes",
+      "Stir in crumbled bacon, Cheddar cheese, sour cream, salt, and pepper. Continue cooking and stirring until cheese is melted. ",
+      {
+        "src": "media/completed/Sushi.webp"
+      }
+    ],
+    "review": "its a best dish ever",
+    "totalTime": 40,
+    "cookTime": 25,
+    "prepTime": 15,
+    "servings": 6,
+    "src": "./assets/p1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Sushi Rolls",
+    "description": "Fresh, vibrant, and artfully crafted Japanese delicacies with various fillings.",
+    "ingredients": [
+      {
+        "ingredient": "Bacon",
+        "description": "Cook bacon in a large skillet."
+      },
+      {
+        "ingredient": "Butter",
+        "description": "You can also use margarine."
+      },
+      {
+        "ingredient": "Flour and milk",
+        "description": "Whisk all-purpose flour and milk into the melted butter for a perfectly thick base."
+      },
+      {
+        "ingredient": "Baked potatoes",
+        "description": "Try our Perfect Baked Potatoes recipe."
+      },
+      {
+        "ingredient": "Green onions",
+        "description": "Chopped green onions lend bright, bold flavor and color."
+      },
+      {
+        "ingredient": "Seasonings",
+        "description": "Simply seasoned with salt and pepper."
+      },
+      {
+        "ingredient": "Cheese and sour cream",
+        "description": "Shredded Cheddar cheese and sour cream ensure a rich and creamy soup."
+      },
+      {
+        "ingredientSize": [
+          "12 slices bacon",
+          "⅔ cup butter",
+          "⅔ cup all-purpose flour",
+          "7 cups milk",
+          "4 large baked potatoes, peeled and cubed",
+          "4 green onions, chopped",
+          "1 ¼ cups shredded Cheddar cheese",
+          "1 cup sour cream",
+          "1 teaspoon salt",
+          "1 teaspoon ground black pepper"
+        ]
+      }
+    ],
+    "direction": [
+      "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 8 to 10 minutes. Drain bacon slices on paper towels; crumble and set aside",
+      "Meanwhile, melt butter in a stockpot or Dutch oven over medium heat. Gradually add flour, whisking until well-combined. Slowly pour in milk, whisking constantly until smooth and thickened",
+      "Add potatoes and onions and bring to a boil, stirring frequently. Reduce heat and simmer for 10 minutes",
+      "Stir in crumbled bacon, Cheddar cheese, sour cream, salt, and pepper. Continue cooking and stirring until cheese is melted. ",
+      {
+        "src": "media/completed/Sushi.webp"
+      }
+    ],
+    "review": "its a best dish ever",
+    "totalTime": 40,
+    "cookTime": 25,
+    "prepTime": 15,
+    "servings": 6,
+    "src": "./assets/p2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Sushi Rolls",
+    "description": "Fresh, vibrant, and artfully crafted Japanese delicacies with various fillings.",
+    "ingredients": [
+      {
+        "ingredient": "Bacon",
+        "description": "Cook bacon in a large skillet."
+      },
+      {
+        "ingredient": "Butter",
+        "description": "You can also use margarine."
+      },
+      {
+        "ingredient": "Flour and milk",
+        "description": "Whisk all-purpose flour and milk into the melted butter for a perfectly thick base."
+      },
+      {
+        "ingredient": "Baked potatoes",
+        "description": "Try our Perfect Baked Potatoes recipe."
+      },
+      {
+        "ingredient": "Green onions",
+        "description": "Chopped green onions lend bright, bold flavor and color."
+      },
+      {
+        "ingredient": "Seasonings",
+        "description": "Simply seasoned with salt and pepper."
+      },
+      {
+        "ingredient": "Cheese and sour cream",
+        "description": "Shredded Cheddar cheese and sour cream ensure a rich and creamy soup."
+      },
+      {
+        "ingredientSize": [
+          "12 slices bacon",
+          "⅔ cup butter",
+          "⅔ cup all-purpose flour",
+          "7 cups milk",
+          "4 large baked potatoes, peeled and cubed",
+          "4 green onions, chopped",
+          "1 ¼ cups shredded Cheddar cheese",
+          "1 cup sour cream",
+          "1 teaspoon salt",
+          "1 teaspoon ground black pepper"
+        ]
+      }
+    ],
+    "direction": [
+      "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 8 to 10 minutes. Drain bacon slices on paper towels; crumble and set aside",
+      "Meanwhile, melt butter in a stockpot or Dutch oven over medium heat. Gradually add flour, whisking until well-combined. Slowly pour in milk, whisking constantly until smooth and thickened",
+      "Add potatoes and onions and bring to a boil, stirring frequently. Reduce heat and simmer for 10 minutes",
+      "Stir in crumbled bacon, Cheddar cheese, sour cream, salt, and pepper. Continue cooking and stirring until cheese is melted. ",
+      {
+        "src": "media/completed/Sushi.webp"
+      }
+    ],
+    "review": "its a best dish ever",
+    "totalTime": 40,
+    "cookTime": 25,
+    "prepTime": 15,
+    "servings": 6,
+    "src": "./assets/p7.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Sushi Rolls",
+    "description": "Fresh, vibrant, and artfully crafted Japanese delicacies with various fillings.",
+    "ingredients": [
+      {
+        "ingredient": "Bacon",
+        "description": "Cook bacon in a large skillet."
+      },
+      {
+        "ingredient": "Butter",
+        "description": "You can also use margarine."
+      },
+      {
+        "ingredient": "Flour and milk",
+        "description": "Whisk all-purpose flour and milk into the melted butter for a perfectly thick base."
+      },
+      {
+        "ingredient": "Baked potatoes",
+        "description": "Try our Perfect Baked Potatoes recipe."
+      },
+      {
+        "ingredient": "Green onions",
+        "description": "Chopped green onions lend bright, bold flavor and color."
+      },
+      {
+        "ingredient": "Seasonings",
+        "description": "Simply seasoned with salt and pepper."
+      },
+      {
+        "ingredient": "Cheese and sour cream",
+        "description": "Shredded Cheddar cheese and sour cream ensure a rich and creamy soup."
+      },
+      {
+        "ingredientSize": [
+          "12 slices bacon",
+          "⅔ cup butter",
+          "⅔ cup all-purpose flour",
+          "7 cups milk",
+          "4 large baked potatoes, peeled and cubed",
+          "4 green onions, chopped",
+          "1 ¼ cups shredded Cheddar cheese",
+          "1 cup sour cream",
+          "1 teaspoon salt",
+          "1 teaspoon ground black pepper"
+        ]
+      }
+    ],
+    "direction": [
+      "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 8 to 10 minutes. Drain bacon slices on paper towels; crumble and set aside",
+      "Meanwhile, melt butter in a stockpot or Dutch oven over medium heat. Gradually add flour, whisking until well-combined. Slowly pour in milk, whisking constantly until smooth and thickened",
+      "Add potatoes and onions and bring to a boil, stirring frequently. Reduce heat and simmer for 10 minutes",
+      "Stir in crumbled bacon, Cheddar cheese, sour cream, salt, and pepper. Continue cooking and stirring until cheese is melted. ",
+      {
+        "src": "media/completed/Sushi.webp"
+      }
+    ],
+    "review": "its a best dish ever",
+    "totalTime": 40,
+    "cookTime": 25,
+    "prepTime": 15,
+    "servings": 6,
+    "src": "./assets/p8.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Sushi Rolls",
+    "description": "Fresh, vibrant, and artfully crafted Japanese delicacies with various fillings.",
+    "ingredients": [
+      {
+        "ingredient": "Bacon",
+        "description": "Cook bacon in a large skillet."
+      },
+      {
+        "ingredient": "Butter",
+        "description": "You can also use margarine."
+      },
+      {
+        "ingredient": "Flour and milk",
+        "description": "Whisk all-purpose flour and milk into the melted butter for a perfectly thick base."
+      },
+      {
+        "ingredient": "Baked potatoes",
+        "description": "Try our Perfect Baked Potatoes recipe."
+      },
+      {
+        "ingredient": "Green onions",
+        "description": "Chopped green onions lend bright, bold flavor and color."
+      },
+      {
+        "ingredient": "Seasonings",
+        "description": "Simply seasoned with salt and pepper."
+      },
+      {
+        "ingredient": "Cheese and sour cream",
+        "description": "Shredded Cheddar cheese and sour cream ensure a rich and creamy soup."
+      },
+      {
+        "ingredientSize": [
+          "12 slices bacon",
+          "⅔ cup butter",
+          "⅔ cup all-purpose flour",
+          "7 cups milk",
+          "4 large baked potatoes, peeled and cubed",
+          "4 green onions, chopped",
+          "1 ¼ cups shredded Cheddar cheese",
+          "1 cup sour cream",
+          "1 teaspoon salt",
+          "1 teaspoon ground black pepper"
+        ]
+      }
+    ],
+    "direction": [
+      "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 8 to 10 minutes. Drain bacon slices on paper towels; crumble and set aside",
+      "Meanwhile, melt butter in a stockpot or Dutch oven over medium heat. Gradually add flour, whisking until well-combined. Slowly pour in milk, whisking constantly until smooth and thickened",
+      "Add potatoes and onions and bring to a boil, stirring frequently. Reduce heat and simmer for 10 minutes",
+      "Stir in crumbled bacon, Cheddar cheese, sour cream, salt, and pepper. Continue cooking and stirring until cheese is melted. ",
+      {
+        "src": "media/completed/Sushi.webp"
+      }
+    ],
+    "review": "its a best dish ever",
+    "totalTime": 40,
+    "cookTime": 25,
+    "prepTime": 15,
+    "servings": 6,
+    "src": "./assets/p3.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Sushi Rolls",
+    "description": "Fresh, vibrant, and artfully crafted Japanese delicacies with various fillings.",
+    "ingredients": [
+      {
+        "ingredient": "Bacon",
+        "description": "Cook bacon in a large skillet."
+      },
+      {
+        "ingredient": "Butter",
+        "description": "You can also use margarine."
+      },
+      {
+        "ingredient": "Flour and milk",
+        "description": "Whisk all-purpose flour and milk into the melted butter for a perfectly thick base."
+      },
+      {
+        "ingredient": "Baked potatoes",
+        "description": "Try our Perfect Baked Potatoes recipe."
+      },
+      {
+        "ingredient": "Green onions",
+        "description": "Chopped green onions lend bright, bold flavor and color."
+      },
+      {
+        "ingredient": "Seasonings",
+        "description": "Simply seasoned with salt and pepper."
+      },
+      {
+        "ingredient": "Cheese and sour cream",
+        "description": "Shredded Cheddar cheese and sour cream ensure a rich and creamy soup."
+      },
+      {
+        "ingredientSize": [
+          "12 slices bacon",
+          "⅔ cup butter",
+          "⅔ cup all-purpose flour",
+          "7 cups milk",
+          "4 large baked potatoes, peeled and cubed",
+          "4 green onions, chopped",
+          "1 ¼ cups shredded Cheddar cheese",
+          "1 cup sour cream",
+          "1 teaspoon salt",
+          "1 teaspoon ground black pepper"
+        ]
+      }
+    ],
+    "direction": [
+      "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 8 to 10 minutes. Drain bacon slices on paper towels; crumble and set aside",
+      "Meanwhile, melt butter in a stockpot or Dutch oven over medium heat. Gradually add flour, whisking until well-combined. Slowly pour in milk, whisking constantly until smooth and thickened",
+      "Add potatoes and onions and bring to a boil, stirring frequently. Reduce heat and simmer for 10 minutes",
+      "Stir in crumbled bacon, Cheddar cheese, sour cream, salt, and pepper. Continue cooking and stirring until cheese is melted. ",
+      {
+        "src": "media/completed/Sushi.webp"
+      }
+    ],
+    "review": "its a best dish ever",
+    "totalTime": 40,
+    "cookTime": 25,
+    "prepTime": 15,
+    "servings": 6,
+    "src": "./assets/p4.jpg"
+  }
+]

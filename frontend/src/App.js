@@ -9,6 +9,7 @@ import About from "./components/About/About";
 import Contact from "./components/Contact/Contact";
 import Signup from "./components/Signup/Signup";
 import Signin from "./components/Signin/Signin";
+import FullRecipe from "./components/FullRecipe";
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
         <Route path="contact" element={<Contact />} />
         <Route path="signup" element={<Signup />} />
         <Route path="signin" element={<Signin />} />
+        <Route path="recipe" element={<FullRecipe />} />
       </Routes>
     </div>
   );

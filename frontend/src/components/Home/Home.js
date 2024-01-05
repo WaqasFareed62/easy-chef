@@ -2,12 +2,12 @@ import React from "react";
 import cook from "./cook.png";
 import d from "./d.png";
 import "./Home.css";
-import Carousel from "../Carousel";
-import Features from "../Tailwindsections/Features";
-import Freerecipe from "../Tailwindsections/Freerecipe";
-import Pricing from "../Tailwindsections/Pricing";
-import Premiumrecipe from "../Tailwindsections/Premiumrecipe";
-import Testimonials from "../Testimonials";
+import Carousel from "../../../src/components/Carousel";
+import Features from "../../../src/components/Tailwindsections/Features";
+import Freerecipe from "../../../src/components/Tailwindsections/Freerecipe";
+import Pricing from "../../../src/components/Tailwindsections/Pricing";
+import Premiumrecipe from "../../../src/components/Tailwindsections/Premiumrecipe";
+import Testimonials from "../../../src/components/Testimonials";
 import Stats from "./Stats";
 
 export default function Home() {
